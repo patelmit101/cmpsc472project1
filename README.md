@@ -1,4 +1,4 @@
-# Advanced Process Manager
+# Advanced Process Manager with Process Synchronization
 
 ## Introduction
 This project is an advanced Process Manager with an emphasis on process synchronization. It allows users to create, manage, and synchronize processes in a multi-threaded environment.
