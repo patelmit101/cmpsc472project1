@@ -61,7 +61,8 @@ multiple tasks concurrently, which is essential in scenarios ranging from
 server-side applications to parallel computing.
 ```
 #### Code with explanation:
-![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/e5f447b4-3175-4a26-9515-26619128eae9)
+![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/7e516f45-1017-434e-9e45-eda75ead6cf0)
+
 
 
 This code demonstrates the process creation functionality using fork. When you run it and
