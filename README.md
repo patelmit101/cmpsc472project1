@@ -69,7 +69,7 @@ This code demonstrates the process creation functionality using fork. When you r
 enter "create," it will create a child process, and you can verify this through the log output.
 
 #### Output:
-![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/612c7c15-f4ae-4ca4-b241-bac35c89fbd1)
+![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/c9e52941-6be2-46c1-99c8-0e99efc97b4f)
 
 
 ## ❖ Process listing
@@ -80,7 +80,8 @@ The system allows users to list all processes. It shows the PID, Name and date o
 the process is created.
 
 #### Code with explanation:
-![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/4bc0f94e-6b5c-4d05-9eae-97b46bdc01fb)
+![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/e35d8b57-f8b3-44c1-baf9-12f007bc277e)
+
 
 
 ```
@@ -90,7 +91,8 @@ processes.
 ```
 
 #### Output:
-![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/b1638368-8ee2-483f-9a31-4fb5f2a74931)
+![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/7710e50e-d477-42a1-a2a0-34257e5a30de)
+
 
 
 
@@ -103,7 +105,8 @@ The system allows the user to terminate any processes that are created by the
 user.
 ```
 #### Code with explanation:
-![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/ec2f603d-2d9a-44f5-9c00-f6f542e61132)
+![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/46df039a-a7fe-4ebc-ac6f-df7bacfb6fa7)
+
 
 
 This code demonstrates process management, allowing you to create, list and terminate
@@ -112,7 +115,8 @@ running processes and terminate to kill the process by providing it PID.
 
 
 #### Output:
-![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/29f7031a-549a-40c6-86d9-549bed9cb7fd)
+![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/53c44f35-cf5e-4baf-b1e6-dfa0b8d85bf6)
+
 
 
 
@@ -126,7 +130,8 @@ primitives to enhance parallel execution, providing a solid foundation for
 multi-threaded applications..
 ```
 #### Code with explanation:
-![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/5b3228fc-e847-451a-b8a6-41b4681a8bde)
+![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/c7225dbf-0fec-40e3-ad58-cb0a85251223)
+
 
 
 This code demonstrates the threading functionality, allowing you to create thread to run
@@ -142,7 +147,8 @@ Inter-Process Communication (IPC) allows processes to communicate and
 share data. One common method for IPC is using pipes.
 ```
 #### Code with explanation:
-![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/9efdbdc6-0cc3-47d9-ad23-ad8efba5fccd)
+![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/5f101d13-a8ba-4eb8-a0ec-a5ac3f281fee)
+
 
 
 This code demonstrates the Inter-Process Communication (IPC) functionality, allowing
@@ -150,7 +156,8 @@ processes to send and receive messages from one another and communicate with eac
 other.
 
 #### Output:
-![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/6c878980-3a95-4840-93b0-c56c3e5f6841)
+![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/78280d0f-9f8c-401f-9a84-d2c7041c7e3a)
+
 
 
 ## ❖ Process Synchronization:
@@ -164,7 +171,7 @@ a coordinated and orderly manner. Common synchronization mechanisms
 include locks, semaphores, and condition variables.
 ```
 #### Example Code with explanation:
-![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/3982a95c-3f13-4ca1-b96c-8f1892f75ff6)
+![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/9ada8953-1834-4c38-a425-7882f025e5f0)
 
 
 Here, I have provided an example of using locks (mutex) for process
@@ -324,8 +331,9 @@ synchronize access.
 '''
 
 ### Output:
-![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/3a6e26bb-7239-4290-a363-ac6c6911000a)
-![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/fc1e7acd-f5cb-47f6-ab77-f7832fb43a34)
+![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/f3ecc3e5-b31f-4b22-aa15-0026e9572513)
+![image](https://github.com/patelmit101/cmpsc472project1/assets/62670195/6b1cc842-20de-4105-b29c-ff1c8997fe70)
+
 
 
 ### Output Explanation:
