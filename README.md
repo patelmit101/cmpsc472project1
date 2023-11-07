@@ -359,7 +359,7 @@ receive_messages.
 
 
 ### Discussion
-####Challenges and Solutions
+#### Challenges and Solutions
 Throughout the development of the Advanced Process Manager, one of the key challenges was ensuring robust process synchronization in a multi-threaded environment. Balancing performance while avoiding race conditions and deadlocks required careful design and testing. Implementing thread-safe operations, especially in the context of inter-process communication (IPC), was particularly challenging. We addressed these issues by using mutexes for mutual exclusion and queues for thread-safe communication, ensuring that processes and threads could operate without interfering with each other.
 
 #### Design Decisions and System Calls
